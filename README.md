@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**RyanMirallia/RyanMirallia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ryan-mirallia-879771236/)
 
-Here are some ideas to get you started:
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RyanMirallia&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMirallia&layout=compact&theme=dracula)
+
+
+## Sobre mim
+
+- 📝 Atualmente cursando **[Ciência da Computação]**
+
+## Habilidades
+
+![C](https://img.shields.io/badge/-000?style=for-the-badge&logo=c&logoColor=3776AB)
+
+## Projetos
+
+
