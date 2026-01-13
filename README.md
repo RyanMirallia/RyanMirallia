@@ -11,7 +11,7 @@
 
 ## Habilidades
 
-![C](https://img.shields.io/badge/-000?style=for-the-badge&logo=c&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## Projetos
 
