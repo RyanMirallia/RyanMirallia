@@ -5,7 +5,7 @@
 
 ## Habilidades
 
-C | Java | C# | .NET | Mysql | PowerBI| Docker
+C | Java | C# | .NET | Mysql | PowerBI/Metabase | Docker
 
 ## Projetos
 
