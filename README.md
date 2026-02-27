@@ -1,7 +1,7 @@
 
 ## Sobre mim
 
-- 📝 Atualmente cursando **[Ciência da Computação]**
+Atualmente cursando **[Ciência da Computação]**
 
 ## Habilidades
 
