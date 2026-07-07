@@ -5,7 +5,7 @@ Atualmente cursando **[Ciência da Computação]**
 
 ## Habilidades
 
-Python | C# | .NET | mySQL | Docker | SQL | SciKit-learn | Power BI
+Python | C# | .NET | mySQL | Docker | SQL | Power BI
 
 ## Projetos
 
