@@ -1,7 +1,7 @@
 
 ## Sobre mim
 
-Atualmente cursando **[Ciência da Computação]**
+Desenvolvedor Backend, atualmente cursando **[Ciência da Computação]**
 
 ## Habilidades
 
