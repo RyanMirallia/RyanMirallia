@@ -5,7 +5,7 @@ Desenvolvedor Backend, atualmente cursando **[Ciência da Computação]**
 
 ## Habilidades
 
-Python | C# | .NET | mySQL | Docker | SQL | Power BI
+SQL | Python | C# | C 
 
 ## Projetos
 
